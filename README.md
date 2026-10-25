@@ -41,7 +41,8 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/fetchapi.git
+https://github.com/Srikanth688/React_fetch_Api.git
+
 ```
 
 ### 2. Navigate to the project folder
